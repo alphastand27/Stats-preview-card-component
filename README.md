@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [alphastand27.github.io/Stats-preview-card-component](https://alphastand27.github.io/Stats-preview-card-component/)
 
 ## My process
 

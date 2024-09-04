@@ -26,8 +26,8 @@ body {
 #cover {
     position: absolute;
     background: var(--Soft-violet);
-    width: 375px;
-    height: 44.1%;
+    min-width: 375px;
+    min-height: 275px;
     z-index: 1;
     opacity: 69%;
     background: rgba(98, 2, 153, 0.774);
@@ -59,6 +59,7 @@ h1 span {
 p {
     text-align: center;
     color: var(--Slightly-transparent-white);
+    overflow: auto;
 }
 
 #description {
